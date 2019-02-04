@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/***REMOVED***/workflows.git"
+    "url": "https://github.com/deluxateer/workflows.git"
   },
-  "author": "***REMOVED***",
+  "author": "Deluxateer",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
